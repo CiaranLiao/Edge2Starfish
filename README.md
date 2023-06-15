@@ -5,7 +5,8 @@ Coding3 Final Project
 
 ## Design Concept
 I was mostly inspired by edge2cat (I really love cats) and thought it was really interesting to just draw an outline and create an image. So I chose to complete a project based on Pix2Pix. On the other hand, I chose starfish as the dataset because of its clear edges and rich colors. I think that can be a good place to start.
-[edge2cat的图]
+![image](https://github.com/CiaranLiao/Edge2Starfish/assets/53254700/3a5448ac-36c2-4670-a55c-d3d0683e50a7)
+
 
 ## Development Processes
 
@@ -13,7 +14,8 @@ I was mostly inspired by edge2cat (I really love cats) and thought it was really
 <b>TensorFlow Pix2Pix Colab Tutorial:</b> https://www.tensorflow.org/tutorials/generative/pix2pix 
 
 Based on this, I changed the original data set on its page to edges2shoes and tried to run it. Fortunately, the entire code can run completely, and there is a result where you can see some initial effects. <a href="https://colab.research.google.com/drive/1eLjt6m9METNeEWnxjD2yZJuRZhdEb-0S#scrollTo=wozqyTh2wmCu"> Colab Link in this part </a>
-[运行出来的鞋子的图]
+![image](https://github.com/CiaranLiao/Edge2Starfish/assets/53254700/1ab40a4d-2ec3-4aa6-8728-997dd29ba63c)
+
 
 ### Create Starfish Dataset
 <b>Dataset Source:</b> https://images.cv/download/starfish/2042/CALL_FROM_SEARCH/%22starfish%22
