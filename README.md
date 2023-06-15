@@ -77,7 +77,7 @@ I think this result is surprising enough, because I only used 150 pairs of image
 
 While basically completing my initial idea, I want to continue to explore the effect of changing some of these parameters on the resulting image. To do this, I mainly tried tweaking the BUFFER_SIZE, optimizer, and activation in the generator. <a href="">the record about this part</a>
 
-To be honest, this part was a big surprise to me, because the images generated were random and interesting every time. After removing the goal of "must become like a real starfish", every random form of it can bring me a new feeling, which throws away the sense of reality, full of confusion and strong conflict, and gives me a great inspiration.
+To be honest, this part was a big surprise to me, because the images generated were random and interesting every time. After removing the goal of "must become like a real starfish", every random form of it can bring me a new feeling, which throws away the sense of reality, which is full of confusion and strong conflict, and gives me great inspiration. 
 
 ![1ad4a57d90804942e389b763bb8fcb6](https://github.com/CiaranLiao/Edge2Starfish/assets/53254700/55588d4b-02a7-4a18-a605-cecb53eb7768)
 ![f732c0c150fdba26224f06da59b9e8a](https://github.com/CiaranLiao/Edge2Starfish/assets/53254700/bdd2ad66-e765-42e7-903f-9d95a961c6e2)
@@ -88,6 +88,7 @@ To be honest, this part was a big surprise to me, because the images generated w
 ![c078b46eb01fcef90ea2412558d1051](https://github.com/CiaranLiao/Edge2Starfish/assets/53254700/f223da61-7186-4470-9da0-58f27a81f3c7)
 ![37d9e9ab6941df04b3b01ffce6a90bc](https://github.com/CiaranLiao/Edge2Starfish/assets/53254700/3df3c8d3-e40c-4ccc-b1bf-6098fceb49e2)
 
+I paused in the middle of the run and downloaded a model of one of the results.
 
 
 
