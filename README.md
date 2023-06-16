@@ -3,7 +3,7 @@ Coding3 Final Project
 
 GitHub Link: https://github.com/CiaranLiao/Edge2Starfish/tree/main
 
-Video Link:
+Video Link:https://drive.google.com/file/d/1mpzP9ooddHt6JqX1Yu9nxNU03bCQmoWU/view?usp=sharing
 
 Dataset Link: https://drive.google.com/drive/folders/1VjGE3JvuZgjDSB761vX1a4IF5IwJUe9B?usp=sharing
 
