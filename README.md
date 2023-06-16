@@ -63,7 +63,8 @@ However, this method produced many errors in the future and was eventually aband
 ### Optimized Dataset
 After repeated revisions, I decided to give up this plan and chose to merge the two graphs into the same shape as the original data set.I achieved this goal with the help of GPT (based on the code it provided and made some changes on it).
 
-![e86afbd30bb01d4d905d3933059cb43](https://github.com/CiaranLiao/Edge2Starfish/assets/53254700/8ea242ce-3a21-4840-a6fd-2af340c3ba10)
+![image](https://github.com/CiaranLiao/Edge2Starfish/assets/53254700/e8e358ed-6ba4-4b99-a0de-f3f1d5a89816)
+
 
 ### Train the Model and Export
 In this run, I didn't make any changes except to the part that fetched the data set, and I reduced BUFFER_SIZE to 4 because the number of my dataset was too small. Here's what happened after training 40,000 steps <a href="https://colab.research.google.com/drive/1sfp6xax3Y3VM4c7K4crBVvSsQGYgRapQ#scrollTo=ESagoGltwDtQ">and the process about this part</a>：
