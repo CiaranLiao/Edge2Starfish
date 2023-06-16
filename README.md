@@ -12,7 +12,7 @@ Dataset Link: https://drive.google.com/drive/folders/1VjGE3JvuZgjDSB761vX1a4IF5I
 
 
 ## Design Concept
-I was mostly inspired by edge2cat (I really love cats) and thought it was really interesting to just draw an outline and create an image. So I chose to complete a project based on Pix2Pix. On the other hand, I chose starfish as the dataset because of its clear edges and rich colors. I think that can be a good place to start.
+I was mostly inspired by <a href="https://affinelayer.com/pixsrv/">edge2cat</a> (I really love cats) and thought it was really interesting to just draw an outline and create an image. So I chose to complete a project based on Pix2Pix. On the other hand, I chose starfish as the dataset because of its clear edges and rich colors. I think that can be a good place to start.
 
 ![image](https://github.com/CiaranLiao/Edge2Starfish/assets/53254700/3a5448ac-36c2-4670-a55c-d3d0683e50a7)
 
