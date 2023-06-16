@@ -90,7 +90,23 @@ After a few more changes and iterations, I was able to draw an outline and have 
 
 ### Further Attempt
 
-While basically completing my initial idea, I want to continue to explore the effect of changing some of these parameters on the resulting image. To do this, I mainly tried tweaking the BUFFER_SIZE, optimizer, and activation in the generator. <a href="https://github.com/CiaranLiao/Edge2Starfish/tree/main/FurtherAttempt">the record about this part</a>
+While basically completing my initial idea, I want to continue to explore the effect of changing some of these parameters on the resulting image. To do this, I mainly tried tweaking the BUFFER_SIZE, optimizer, and activation in the generator. <a href="https://github.com/CiaranLiao/Edge2Starfish/tree/main/FurtherAttempt">the record about this part</a>  
+BUFFER_SIZE = 1:
+![6962af5e86e159b7723e5f9d33baecd](https://github.com/CiaranLiao/Edge2Starfish/assets/53254700/b99957ad-2ce1-4b21-a87d-3cf090193562)
+BUFFER_SIZE = 4:
+![e0eb9e75d239704aa28dffefeb8983a](https://github.com/CiaranLiao/Edge2Starfish/assets/53254700/fcfdd8a6-c811-4cd1-a404-f00c8206d852)
+BUFFER_SIZE = 10:
+![e87fe250729a1cbced2b51ccc4a2b8d](https://github.com/CiaranLiao/Edge2Starfish/assets/53254700/9d552dce-164d-4224-bb4d-a1d59c5c95b1)
+optimizer = RMSprop:
+![aa34d8473acbb0e9175fc415db50d7e](https://github.com/CiaranLiao/Edge2Starfish/assets/53254700/cb1a343c-f03d-447e-9824-c4a2734fb155)
+optimizer = SGD:
+![986281bcd04726b8f4687636731269e](https://github.com/CiaranLiao/Edge2Starfish/assets/53254700/a305537a-47c6-4a1c-a4dd-a67b833f5b6f)
+Generator activation = leakyrelu:
+![image](https://github.com/CiaranLiao/Edge2Starfish/assets/53254700/c2b72d28-5d9b-4449-af3f-2585b65393d5)
+Generator activation = sigmoid:
+![image](https://github.com/CiaranLiao/Edge2Starfish/assets/53254700/e29d6300-5d98-400b-9406-fddceac6cb87)
+BUFFER_SIZE = 4; optimizer = RMSprop; Generator activation = sigmoid:
+![image](https://github.com/CiaranLiao/Edge2Starfish/assets/53254700/94e4a787-f851-4b25-ad3e-46a13bd2dbb6)
 
 To be honest, this part was a big surprise to me, because the images generated were random and interesting every time. After removing the goal of "must become like a real starfish", every random form of it can bring me a new feeling, which throws away the sense of reality, which is full of confusion and strong conflict, and gives me great inspiration. 
 
