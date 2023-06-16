@@ -1,7 +1,9 @@
 # Edge2Starfish 
 Coding3 Final Project
 
-[画画然后生成图片的gif]
+![录制_2023_06_16_01_31_13_132](https://github.com/CiaranLiao/Edge2Starfish/assets/53254700/69321e29-11b9-4c90-80d9-6186673efd74)
+
+
 
 ## Design Concept
 I was mostly inspired by edge2cat (I really love cats) and thought it was really interesting to just draw an outline and create an image. So I chose to complete a project based on Pix2Pix. On the other hand, I chose starfish as the dataset because of its clear edges and rich colors. I think that can be a good place to start.
